@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>分类浏览 - AI智能搜索系统</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css">
+    <link rel="icon" type="image/svg+xml" href="images/favicon.svg">
+</head>
+<body>
+    <div class="app-container">
+        <!-- 侧边栏 -->
+        <aside class="sidebar">
+            <div class="logo">
+                <h1>AI搜索</h1>
+            </div>
+            <nav class="nav-menu">
+                <ul>
+                    <li><a href="index.html"><i class="ri-search-line"></i> 搜索</a></li>
+                    <li class="active"><a href="categories.html"><i class="ri-folder-line"></i> 分类浏览</a></li>
+                    <li><a href="about.html"><i class="ri-information-line"></i> 关于</a></li>
+                </ul>
+            </nav>
+            <div class="sidebar-footer">
+                <p>&copy; 2024 AI智能搜索系统</p>
+            </div>
+        </aside>
+
+        <!-- 主内容区 -->
+        <main class="main-content">
+            <header class="header">
+                <h2>分类浏览</h2>
+                <div class="theme-toggle">
+                    <i class="ri-moon-line" id="theme-toggle-icon"></i>
+                </div>
+            </header>
+
+            <div class="category-container">
+                <h3>按技术领域浏览内容</h3>
+                <p class="category-description">选择一个技术领域，浏览相关文章</p>
+                
+                <div class="category-grid" id="category-grid">
+                    <!-- 分类卡片将由JavaScript动态添加 -->
+                    <div class="category-loader" id="category-loader">
+                        <div class="spinner"></div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="js/categories.js"></script>
+</body>
+</html> 

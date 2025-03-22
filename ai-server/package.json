@@ -1,20 +1,32 @@
 {
   "name": "ai-server",
   "version": "1.0.0",
-  "main": "index.js",
+  "type": "module",
+  "main": "index.mjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.mjs",
+    "dev": "nodemon index.mjs",
+    "create-embeddings": "node create-embedding.mjs"
   },
-  "keywords": [],
+  "keywords": [
+    "ai",
+    "search",
+    "embeddings",
+    "openai"
+  ],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "AI-powered semantic search application using OpenAI embeddings",
   "dependencies": {
     "@koa/cors": "^5.0.0",
     "dotenv": "^16.4.7",
     "koa": "^2.16.0",
     "koa-bodyparser": "^4.4.1",
     "koa-router": "^13.0.1",
+    "koa-static": "^5.0.0",
     "openai": "^4.89.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
   }
 }

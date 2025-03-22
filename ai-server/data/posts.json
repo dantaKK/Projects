@@ -138,5 +138,233 @@
     {
       "title": "使用 Tailwind CSS 和 Alpine.js 构建一个简单的交互式表单",
       "category": "前端开发"
+    },
+    {
+      "title": "深入理解 React 中的虚拟 DOM 和 Fiber 架构",
+      "category": "前端开发"
+    },
+    {
+      "title": "Vue 3 组合式 API 全面指南",
+      "category": "前端开发"
+    },
+    {
+      "title": "使用 WebAssembly 加速 JavaScript 应用性能",
+      "category": "前端开发"
+    },
+    {
+      "title": "CSS Grid 布局完全教程",
+      "category": "前端开发"
+    },
+    {
+      "title": "微前端架构实践与原理解析",
+      "category": "前端开发"
+    },
+    {
+      "title": "前端性能优化的 20 个实用技巧",
+      "category": "前端开发"
+    },
+    {
+      "title": "使用 TypeScript 和装饰器模式构建可扩展后端架构",
+      "category": "后端开发"
+    },
+    {
+      "title": "Spring Boot 微服务架构设计与实践",
+      "category": "后端开发"
+    },
+    {
+      "title": "使用 gRPC 构建高性能微服务通信",
+      "category": "后端开发"
+    },
+    {
+      "title": "深入理解 Kubernetes 容器编排系统",
+      "category": "后端开发"
+    },
+    {
+      "title": "使用 Redis 实现高性能缓存策略",
+      "category": "后端开发"
+    },
+    {
+      "title": "Event Sourcing 和 CQRS 架构模式详解",
+      "category": "后端开发"
+    },
+    {
+      "title": "后端数据库分库分表解决方案",
+      "category": "后端开发"
+    },
+    {
+      "title": "使用 Elasticsearch 构建实时搜索引擎",
+      "category": "后端开发"
+    },
+    {
+      "title": "GraphQL API 设计最佳实践",
+      "category": "后端开发"
+    },
+    {
+      "title": "SwiftUI 实战：构建现代 iOS 用户界面",
+      "category": "移动开发"
+    },
+    {
+      "title": "Flutter 状态管理详解：从 Provider 到 Riverpod",
+      "category": "移动开发"
+    },
+    {
+      "title": "React Native 性能优化指南",
+      "category": "移动开发"
+    },
+    {
+      "title": "Android Jetpack Compose 入门与实践",
+      "category": "移动开发"
+    },
+    {
+      "title": "基于 Flutter 的跨平台应用架构设计",
+      "category": "移动开发"
+    },
+    {
+      "title": "移动应用的离线优先设计策略",
+      "category": "移动开发"
+    },
+    {
+      "title": "iOS Core ML 与 ARKit 实现智能增强现实应用",
+      "category": "移动开发"
+    },
+    {
+      "title": "深度学习在自然语言处理中的应用",
+      "category": "数据科学"
+    },
+    {
+      "title": "使用 PyTorch 构建生成对抗网络 (GAN)",
+      "category": "数据科学"
+    },
+    {
+      "title": "数据科学中的特征工程技巧",
+      "category": "数据科学"
+    },
+    {
+      "title": "使用 Apache Spark 进行大规模数据处理",
+      "category": "数据科学"
+    },
+    {
+      "title": "机器学习模型部署与服务化",
+      "category": "数据科学"
+    },
+    {
+      "title": "时间序列数据分析与预测",
+      "category": "数据科学"
+    },
+    {
+      "title": "强化学习算法与实践",
+      "category": "数据科学"
+    },
+    {
+      "title": "数据可视化最佳实践与工具选择",
+      "category": "数据科学"
+    },
+    {
+      "title": "推荐系统设计与算法实现",
+      "category": "数据科学"
+    },
+    {
+      "title": "Docker 容器化应用开发指南",
+      "category": "DevOps"
+    },
+    {
+      "title": "使用 Jenkins 实现 CI/CD 流水线",
+      "category": "DevOps"
+    },
+    {
+      "title": "GitOps 工作流与工具链",
+      "category": "DevOps"
+    },
+    {
+      "title": "使用 Terraform 进行基础设施即代码 (IaC)",
+      "category": "DevOps"
+    },
+    {
+      "title": "Kubernetes 集群监控与日志收集",
+      "category": "DevOps"
+    },
+    {
+      "title": "云原生应用架构设计模式",
+      "category": "DevOps"
+    },
+    {
+      "title": "微服务应用的可观测性建设",
+      "category": "DevOps"
+    },
+    {
+      "title": "Git 工作流程与团队协作最佳实践",
+      "category": "开发工具"
+    },
+    {
+      "title": "使用 Docker 构建开发环境",
+      "category": "开发工具"
+    },
+    {
+      "title": "前端工程化工具链详解",
+      "category": "开发工具"
+    },
+    {
+      "title": "编译原理与实现简单解释器",
+      "category": "计算机基础"
+    },
+    {
+      "title": "操作系统内存管理机制详解",
+      "category": "计算机基础"
+    },
+    {
+      "title": "网络协议栈与 TCP/IP 工作原理",
+      "category": "计算机基础"
+    },
+    {
+      "title": "分布式系统一致性算法详解",
+      "category": "计算机基础"
+    },
+    {
+      "title": "常见加密算法原理与应用",
+      "category": "计算机基础"
+    },
+    {
+      "title": "设计模式与面向对象编程实践",
+      "category": "计算机基础"
+    },
+    {
+      "title": "密码学基础与实现",
+      "category": "网络安全"
+    },
+    {
+      "title": "Web 应用安全测试方法论",
+      "category": "网络安全"
+    },
+    {
+      "title": "OAuth 2.0 与 JWT 认证详解",
+      "category": "网络安全"
+    },
+    {
+      "title": "HTTPS 工作原理与最佳实践",
+      "category": "网络安全"
+    },
+    {
+      "title": "跨站脚本攻击 (XSS) 防护策略",
+      "category": "网络安全"
+    },
+    {
+      "title": "使用区块链构建去中心化应用 (DApp)",
+      "category": "区块链"
+    },
+    {
+      "title": "智能合约开发与安全实践",
+      "category": "区块链"
+    },
+    {
+      "title": "区块链共识算法详解",
+      "category": "区块链"
+    },
+    {
+      "title": "数字货币钱包开发指南",
+      "category": "区块链"
+    },
+    {
+      "title": "NFT 平台设计与实现",
+      "category": "区块链"
     }
   ]
